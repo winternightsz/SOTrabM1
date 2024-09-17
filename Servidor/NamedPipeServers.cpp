@@ -160,7 +160,7 @@ int main() {
             CloseHandle(hPipeStrings);
             });
 
-        cout << "Clientes desconectados4" << endl;
+        cout << "Clientes desconectados" << endl;
     }
 
     return 0;
